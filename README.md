@@ -1,6 +1,6 @@
 # Hi, I'm Hariom Mishra 👋
 
-Building AI products, backend systems, and multi-tool agents. 
+Building **AI products, backend systems, and multi-tool agents**.
 
 I like building things that are actually useful instead of demo-only AI projects.
 
@@ -9,39 +9,79 @@ I like building things that are actually useful instead of demo-only AI projects
 ## 💻 Tech Stack
 
 ```python
-Languages = ["Python", "JavaScript", "Dart", "SQL"]
-AI = ["OpenAI API", "LangChain", "LangGraph", "RAG Architecture", "Vector DBs"]
-Backend = ["FastAPI", "AsyncIO", "PostgreSQL", "Redis", "MongoDB"]
-DevOps = ["Docker", "Git", "Postman", "Grafana"]
+Languages = [
+    "Python",
+    "JavaScript",
+    "Dart",
+    "SQL",
+]
 
-🚀 What I'm Up To
-Currently: Software Engineer (Python & AI) @ Zulu Club, building production AI pipelines, webhook integrations, and Multi-Tool Agents.
+AI = [
+    "OpenAI API",
+    "LangChain",
+    "LangGraph",
+    "RAG Architecture",
+    "Vector DBs",
+]
 
-Previously: Software Engineer @ Junkies Coder, developing cross-platform business logic and scalable REST APIs.
+Backend = [
+    "FastAPI",
+    "AsyncIO",
+    "PostgreSQL",
+    "Redis",
+    "MongoDB",
+]
 
-Exploring: AI agents, multi-step reasoning systems, better RAG architectures, and scalable backends.
+DevOps = [
+    "Docker",
+    "Git",
+    "Postman",
+    "Grafana",
+]
+```
 
-🛠️ Featured Projects
-📊 AI & Financial Systems
-Financial Intelligence API: High-performance Hybrid Search RAG pipeline handling complex PDF processing with Qdrant, Redis, BM25, and FastAPI.
+---
 
-Financial Operations Copilot: AI-powered Expense Copilot using LangGraph and FastAPI for autonomous tool-selection, expense tracking, and analysis.
+## 🚀 What I'm Up To
 
-📱 Developer Tools & Education
-AI Code Reviewer: Specialized reviewer for Flutter/Dart that catches widget tree issues and bad state management patterns.
+**Currently:** Software Engineer (Python & AI) @ Zulu Club, building production AI pipelines, webhook integrations, and multi-tool agents.
 
-Voice AI Interview Coach: LLM-powered system for software engineering interview prep with real-time spoken feedback.
+**Previously:** Software Engineer @ Junkies Coder, developing cross-platform business logic and scalable REST APIs.
 
-⚡ Stats & Quick Facts
-🧠 Solved 150+ DSA problems
+**Exploring:** AI agents, multi-step reasoning systems, better RAG architectures, and scalable backends.
 
-📜 Certified in Applied AI & Machine Learning Solutions
+---
 
-🎓 MCA graduate from Sir M. Visvesvaraya Institute of Technology
+## 🛠️ Featured Projects
 
-📫 Let's Connect
-LinkedIn: hariom-2000-mishra
+### 📊 AI & Financial Systems
 
-Email: mhariom014@gmail.com
+**Financial Intelligence API**
+High-performance Hybrid Search RAG pipeline handling complex PDF processing with Qdrant, Redis, BM25, and FastAPI.
 
-Location: Gurugram, India (Open to Remote)
+**Financial Operations Copilot**
+AI-powered Expense Copilot using LangGraph and FastAPI for autonomous tool selection, expense tracking, and financial analysis.
+
+### 📱 Developer Tools & Education
+
+**AI Code Reviewer**
+Specialized reviewer for Flutter/Dart that catches widget tree issues and bad state management patterns.
+
+**Voice AI Interview Coach**
+LLM-powered system for software engineering interview preparation with real-time spoken feedback.
+
+---
+
+## ⚡ Stats & Quick Facts
+
+* 🧠 Solved **150+ DSA problems**
+* 📜 Certified in **Applied AI & Machine Learning Solutions**
+* 🎓 MCA graduate from **Sir M. Visvesvaraya Institute of Technology**
+
+---
+
+## 📫 Let's Connect
+
+* **LinkedIn:** [hariom-2000-mishra](#)
+* **Email:** [mhariom014@gmail.com](mailto:mhariom014@gmail.com)
+* **Location:** Gurugram, India — Open to Remote
