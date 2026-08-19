@@ -84,4 +84,4 @@ LLM-powered system for software engineering interview preparation with real-time
 
 * **LinkedIn:** [hariom-2000-mishra](#)
 * **Email:** [mhariom014@gmail.com](mailto:mhariom014@gmail.com)
-* **Location:** Gurugram, India — Open to Remote
+* **Location:** Gurugram, India — Open to Relocate
